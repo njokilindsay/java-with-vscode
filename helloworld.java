@@ -6,7 +6,7 @@ public class helloworld {
         System.out.println("Enter any number:");
         int n=reader.nextInt();
         System.out.println("n="+n);
-        System.out.println("Jva program");
+        System.out.println("Java program");
     }
     
 }
